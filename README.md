@@ -2,4 +2,7 @@
 
 This is a To Do list Desktop-app made with electron
 
-![image](https://github.com/adriianoo/todo-app/assets/84389909/f025b97d-34b2-49d4-b0de-d3c802124399)
+<br />
+
+### screenshot:
+![image](https://github.com/adriianoo/todo-app/assets/84389909/089c5719-7ff2-4b02-9d11-0e5b368dbaf9)
