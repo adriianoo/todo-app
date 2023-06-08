@@ -1,6 +1,6 @@
-# todo-app
+# Todo List
 
-This is a To Do list Desktop-app made with electron
+This is a ToDo-List Desktop-app made with electron
 
 <br />
 
