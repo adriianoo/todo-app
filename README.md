@@ -1,6 +1,6 @@
-# <p align="center">Todo List</p>
+# <p align="center">Todo List 📝</p>
 
-<p align="center">🖊️ A simple ToDo Desktop-app made with <a href="https://www.electronjs.org/de/">Electron</a></p>
+<p align="center">A simple ToDo Desktop-app made with <a href="https://www.electronjs.org/de/">Electron</a></p>
 
 <br />
 
