@@ -10,5 +10,4 @@
 <br />
 
 # Upcoming features:
-- 🗑️ Delete todos<br>
-- 🌙 Light \ dark mode toggle
+- 🌙 Light \ Dark mode toggle
